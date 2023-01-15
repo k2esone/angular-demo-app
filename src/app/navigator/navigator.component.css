@@ -1,0 +1,23 @@
+.navigator {
+  background-color: #134074;
+  display: flex;
+  padding: 4px;
+  border: 1px solid #0B2545;
+}
+
+.navigator-button {
+  margin: 0 4px;
+  color: white;
+  border: 1px solid #134074;
+  padding: 2px 4px;
+  width: 110px;
+  text-align: center;
+  background-color: #0B2545;
+  front-size: 1.4em;
+  transition: all 1s ease;
+}
+
+  .navigator-button:hover {
+    color: #8da9c4;
+  }
+

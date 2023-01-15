@@ -1,0 +1,11 @@
+.app-container {
+  /*background-color: red;*/
+  padding-bottom: 24px;
+}
+
+.page-content {
+  background-color: #e2ebe8;
+  border: 1px solid #8da9c4;
+  min-height: 240px;
+}
+
